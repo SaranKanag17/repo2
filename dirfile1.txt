@@ -1,2 +1,4 @@
 New file in dir1
 
+
+added from notepad
